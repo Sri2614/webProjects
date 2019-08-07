@@ -1,0 +1,27 @@
+body {
+    background: url(https://images.pexels.com/photos/1743165/pexels-photo-1743165.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) no-repeat center center fixed;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    
+
+}
+
+
+#content{
+	text-align: center;
+	padding-top: 25%;
+	color: forestgreen;
+}
+
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
+
+hr{
+	width: 630px;
+	border-top: 1px solid green;
+	border-bottom: 1px solid rgba(0,0,0,0.2);	
+}
